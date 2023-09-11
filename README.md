@@ -17,6 +17,8 @@ This project is a To-Do List application that serves as a practical tool for man
 - **CSS**: CSS styles the To-Do List, making it visually appealing and user-friendly.
 
 - **JavaScript**: JavaScript powers the interactivity of the To-Do List, enabling task addition, removal, and prioritization.
+  
+<img width="487" alt="Captura de ecrã 2023-09-11, às 21 39 33" src="https://github.com/Sakura-blip/toDoLIst/assets/115422221/7c818d9f-6907-47b9-93c2-d69b9b135040">
 
 ### Getting Started
 
@@ -34,4 +36,3 @@ If you want to explore the project's source code and make modifications, you can
 
 2. Open the project directory and access the HTML, CSS, and JavaScript files to make any desired changes or improvements.
 
-![To-Do List](https://github.com/Sakura-blip/toDoLIst/assets/115422221/423ce283-4afb-4ad9-a434-36c25a4c6f3c)
