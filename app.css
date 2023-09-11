@@ -1,9 +1,0 @@
-body{
-    background-color: tomato;
-    
-}
-
-.box, h2 {
-    display: flex;
-    justify-content: center;
-}
