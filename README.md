@@ -18,7 +18,7 @@ This project is a To-Do List application that serves as a practical tool for man
 
 - **JavaScript**: JavaScript powers the interactivity of the To-Do List, enabling task addition, removal, and prioritization.
   
-<img width="686" alt="Captura de ecrã 2023-09-11, às 21 49 03" src="https://github.com/Sakura-blip/toDoLIst/assets/115422221/815369b2-109c-4a94-a86c-d0f1f863ec14">
+<img width="481" alt="Captura de ecrã 2023-09-11, às 21 52 22" src="https://github.com/Sakura-blip/toDoLIst/assets/115422221/e1b8fd60-9df2-4a0c-a910-cbbb43cdb807">
 
 ### Getting Started
 
