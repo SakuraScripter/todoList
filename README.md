@@ -1,3 +1,37 @@
-The main goal was to learn how to create a To Do List with Html and Javascript.
+## To-Do List
 
-<img width="260" alt="Captura de ecrã 2023-06-12, às 13 28 26" src="https://github.com/Sakura-blip/toDoLIst/assets/115422221/cbb6ecae-ae3a-4b81-8410-637026109860">
+### Overview
+
+This project is a To-Do List application that serves as a practical tool for managing tasks and improving productivity. It was developed as a learning exercise to understand how to create a To-Do List using HTML and JavaScript.
+
+### Features
+
+- **Add and Remove Tasks**: Users can add tasks to the list, specifying a task name and due date. Completed tasks can be easily removed from the list.
+
+- **Clear All Tasks**: A "Delete All" button allows users to remove all tasks from the list at once.
+
+### Technologies Used
+
+- **HTML**: The project's structure and user interface are built using HTML.
+
+- **CSS**: CSS styles the To-Do List, making it visually appealing and user-friendly.
+
+- **JavaScript**: JavaScript powers the interactivity of the To-Do List, enabling task addition, removal, and prioritization.
+
+### Getting Started
+
+To run this project locally on your own machine, you don't need any specific installations. Simply open the project's HTML file in your web browser to start using the To-Do List.
+
+### Installation
+
+If you want to explore the project's source code and make modifications, you can follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+
+   ```
+   git clone https://github.com/userName/repoName.git
+   ```
+
+2. Open the project directory and access the HTML, CSS, and JavaScript files to make any desired changes or improvements.
+
+![To-Do List](https://github.com/Sakura-blip/toDoLIst/assets/115422221/423ce283-4afb-4ad9-a434-36c25a4c6f3c)
