@@ -22,11 +22,9 @@ This project is a To-Do List application that serves as a practical tool for man
 
 ### Getting Started
 
-To run this project locally on your own machine, you don't need any specific installations. Simply open the project's HTML file in your web browser to start using the To-Do List.
+To run this project locally on your own machine, you don't need any specific installations. Simply open the project's HTML file in your web browser to start using the To-Do List. 
 
 ### Installation
-
-If you want to explore the project's source code and make modifications, you can follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
@@ -34,5 +32,4 @@ If you want to explore the project's source code and make modifications, you can
    git clone https://github.com/userName/repoName.git
    ```
 
-2. Open the project directory and access the HTML, CSS, and JavaScript files to make any desired changes or improvements.
-
+2. Open the project directory and right-click the HTML file and choose “Open with Live Server” from the context menu. In this case, install the Live Server extension.
