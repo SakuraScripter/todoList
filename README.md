@@ -32,4 +32,4 @@ To run this project locally on your own machine, you don't need any specific ins
    git clone https://github.com/userName/repoName.git
    ```
 
-2. Open the project directory and launch the HTML file in your web browser to start using the To-Do List. In VS Code you can right-click same file and choose “Open with Live Server” from the context menu but install the Live Server extension first.
+2. Open the project directory and launch the HTML file in your web browser to start using the To-Do List. In VS Code you can right-click same file and choose “Open with Live Server” from the context menu (install Live Server extension).
